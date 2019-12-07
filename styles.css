@@ -1,0 +1,37 @@
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  border: 5px solid black;
+  width: 500px;
+  height: 300px;
+}
+#input {
+  display: flex;
+  flex-direction: column;
+  align-items: space-around;
+  
+  
+}
+.email {
+
+}
+.password {
+  
+}
+.buttons {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.sign {
+  height: 5%;
+  width: 15%;
+  border: 2px solid;
+}
